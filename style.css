@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-image: radial-gradient(blue,green);
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
